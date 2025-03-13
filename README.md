@@ -27,3 +27,13 @@ Les résultats montrent que si la météo n'affecte pas directement la fréquenc
 
 - Analysez les différentes sections pour comprendre les corrélations entre la météo et la gravité des accidents.
 - Utilisez les visualisations pour interpréter les résultats.
+
+***🛠️ Outils et Technologies Utilisés***
+
+**1.Python**
+
+- Utilisé pour le traitement des données, les analyses statistiques et la création de visualisations.
+- Bibliothèques utilisées :
+   - **pandas** : pour la manipulation et l'analyse des données.
+   - **matplotlib** et **seaborn** : pour les visualisations graphiques (graphiques en bâtons, courbes, etc.).
+   - **numpy** : pour les calculs mathématiques et statistiques.
